@@ -33,8 +33,9 @@ Always open to your feedback and suggestions! 😄
 ---
 
 ### 🛠️ Tech Stack:
-- **Languages**: 
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+- **Languages**:
+  ![C](https://img.shields.io/badge/-C-007396?style=flat-square&logo=c)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
   
@@ -49,6 +50,7 @@ Always open to your feedback and suggestions! 😄
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
   ![Pandas](https://img.shields.io/badge/-Pandas-10074E?style=flat-square&logo=pandas&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux)
 
 ---
 
@@ -86,3 +88,7 @@ Always open to your feedback and suggestions! 😄
 -->
 
 Thanks for stopping by! 😄 Always open to collaboration and new learning opportunities.
+
+---
+
+![](https://komarev.com/ghpvc/?username=prabhuanantht&style=plastic)
