@@ -24,7 +24,7 @@ Always open to your feedback and suggestions! 😄
 ---
 
 ### 🌟 About Me:
-- 🎓 **Aspiring Software Engineer** | 💻 **Interested in Cybersecurity & Machine Learning**
+- 🎓 **Aspiring Software Engineer** | 💻 **Interested in exploring new technologies**
 - 🔬 Constantly exploring new technologies, pushing boundaries, and crafting solutions.
 - 🎯 Currently focusing on **Data Structures, Algorithms**, and honing my **problem-solving** skills in **Competitive Programming** using **C++**.
 - 🛠️ I love experimenting with **Python, Java**, and creating robust web applications using **React** and **Django**.
