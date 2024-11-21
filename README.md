@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🎓 **Aspiring Software Engineer** | 💻 **Interested in exploring new technologies**
 - 🔬 Constantly exploring new technologies, pushing boundaries, and crafting solutions.
 - 🎯 Currently focusing on **Data Structures, Algorithms**, and honing my **problem-solving** skills in **Competitive Programming** using **C++**.
-- 🛠️ I love experimenting with **Python, Java**, and creating robust web applications using **React** and **Django**.
+- 🛠️ I love experimenting with **Python, Java**, **AI & Machine Learning** and creating robust web applications using **Django**.
 - 🌱 Learning something new every day, because the journey of learning never ends.
 
 ---
