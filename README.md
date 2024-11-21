@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 # Hey there, I'm Ananth! 👋
 
-Welcome to my GitHub Corner! 🚀                                                                        
-This space is currently under construction 🚧                                                                
-Always open to your feedback and suggestions! 😄
-
 ---
 
 ### 🌟 About Me:
