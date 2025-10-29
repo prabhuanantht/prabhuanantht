@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 - **Tools & Platforms**:
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
   ![Pandas](https://img.shields.io/badge/-Pandas-10074E?style=flat-square&logo=pandas&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux)
 
